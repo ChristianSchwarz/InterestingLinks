@@ -13,8 +13,8 @@ Link collection of interesting projects
 
 ## JDK
  * process Java Code on the GPU / APU  https://github.com/aparapi/aparapi
- * Layout proposal for project Panama (JNI replacement) https://github.com/J9Java/panama-layout-prototype
- * 
+ * Layout proposal for project Panama https://github.com/J9Java/panama-layout-prototype
+ * Project panama will based on JNR https://github.com/jnr/jnr-ffi
 
 ## Other
  * StackExchange clones http://meta.stackexchange.com/questions/2267/stack-exchange-clones
