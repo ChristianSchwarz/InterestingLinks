@@ -6,13 +6,14 @@ Link collection of interesting projects
  * https://github.com/google/truth
  * AssetJ
  * PiTest https://github.com/hcoles/pitest
+ * Headless Silenium for Windows https://github.com/kybu/headless-selenium-for-win
 
 
 ## Single Platine Computers
  * Eclipse Target Platform for RaspberryPi https://github.com/turesheim/eclipse-rpi
 
 ## JDK
- * process Java Code on the GPU / APU  https://github.com/aparapi/aparapi
+ * run Java Code on the GPU / APU  https://github.com/aparapi/aparapi
  * Layout proposal for project Panama https://github.com/J9Java/panama-layout-prototype
  * Project panama will based on JNR https://github.com/jnr/jnr-ffi
 
