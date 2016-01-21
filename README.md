@@ -10,7 +10,7 @@ Link collection of interesting projects
  * Leak Canary (Find Memory Leaks in Android) https://github.com/square/leakcanary
 
 ## Communication
- * Type-safe HTTP client [http://square.github.io/retrofit/]
+ * Type-safe HTTP client [retorfit|http://square.github.io/retrofit/]
 
 ## Single Platine Computers
  * Eclipse Target Platform for RaspberryPi https://github.com/turesheim/eclipse-rpi
