@@ -3,10 +3,11 @@ Link collection of interesting projects
 
 ## Testing
 
- * https://github.com/google/truth
+ * Truth https://github.com/google/truth
  * AssetJ
  * PiTest https://github.com/hcoles/pitest
  * Headless Silenium for Windows https://github.com/kybu/headless-selenium-for-win
+ * Leak Canary (Find Memory Leaks in Android) https://github.com/square/leakcanary
 
 
 ## Single Platine Computers
