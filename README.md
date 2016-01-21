@@ -7,10 +7,9 @@ Link collection of interesting projects
  * AssetJ
  * PiTest https://github.com/hcoles/pitest
  * Headless Silenium for Windows https://github.com/kybu/headless-selenium-for-win
- * Leak Canary (Find Memory Leaks in Android) https://github.com/square/leakcanary
-
+ * [Leak Canary] (https://github.com/square/leakcanary) A memory leak detection library for Android and Java.
 ## Communication
- * Type-safe HTTP client [retrofit][http://square.github.io/retrofit/]
+ * [retrofit] (http://square.github.io/retrofit/) a type-safe HTTP client 
 
 ## Single Platine Computers
  * Eclipse Target Platform for RaspberryPi https://github.com/turesheim/eclipse-rpi
