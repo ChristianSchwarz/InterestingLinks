@@ -8,6 +8,7 @@ Link collection of interesting projects
  * PiTest https://github.com/hcoles/pitest
  * Headless Silenium for Windows https://github.com/kybu/headless-selenium-for-win
  * [Leak Canary] (https://github.com/square/leakcanary) A memory leak detection library for Android and Java.
+ 
 ## Communication
  * [retrofit] (http://square.github.io/retrofit/) a type-safe HTTP client 
 
