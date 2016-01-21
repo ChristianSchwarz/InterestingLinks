@@ -9,6 +9,8 @@ Link collection of interesting projects
  * Headless Silenium for Windows https://github.com/kybu/headless-selenium-for-win
  * Leak Canary (Find Memory Leaks in Android) https://github.com/square/leakcanary
 
+## Communication
+ * Type-safe HTTP client https://github.com/square/retrofit
 
 ## Single Platine Computers
  * Eclipse Target Platform for RaspberryPi https://github.com/turesheim/eclipse-rpi
