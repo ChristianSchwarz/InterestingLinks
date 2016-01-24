@@ -13,7 +13,7 @@ Link collection of interesting projects
  * [retrofit] (http://square.github.io/retrofit/) a type-safe HTTP client 
 
 ## Single Platine Computers
- * [pine64](http://pine64.com/)
+ * [PINE A64](http://pine64.com/) First $15 64-Bit Single Board Super Computer
  * [Eclipse Target Platform](https://github.com/turesheim/eclipse-rpi) for RaspberryPi 
 
 ## JDK
