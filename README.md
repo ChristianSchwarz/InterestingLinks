@@ -13,7 +13,8 @@ Link collection of interesting projects
  * [retrofit] (http://square.github.io/retrofit/) a type-safe HTTP client 
 
 ## Single Platine Computers
- * Eclipse Target Platform for RaspberryPi https://github.com/turesheim/eclipse-rpi
+ * [pine64](http://pine64.com/)
+ * [Eclipse Target Platform](https://github.com/turesheim/eclipse-rpi) for RaspberryPi 
 
 ## JDK
  * run Java Code on the GPU / APU  https://github.com/aparapi/aparapi
