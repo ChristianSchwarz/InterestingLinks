@@ -3,7 +3,7 @@ Link collection of interesting projects
 
 ## Testing
 
- * Truth https://github.com/google/truth
+ * [Truth](http://google.github.io/truth/) is a framework designed to make tests and their error messages more readable and discoverable.
  * AssetJ
  * PiTest https://github.com/hcoles/pitest
  * Headless Silenium for Windows https://github.com/kybu/headless-selenium-for-win
