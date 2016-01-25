@@ -14,7 +14,9 @@ Link collection of interesting projects
 
 ## Single Board Computers
  * [PINE A64](http://pine64.com/) First $15 64-Bit Single Board Super Computer
- * [Eclipse Target Platform](https://github.com/turesheim/eclipse-rpi) for RaspberryPi 
+ * [C.H.I.P](http://nextthing.co/pages/chip) The World's First Nine Dollar Computer
+ * [Eclipse Target Platform](https://github.com/turesheim/eclipse-rpi) for RaspberryPi
+
 
 ## JDK
  * run Java Code on the GPU / APU  https://github.com/aparapi/aparapi
