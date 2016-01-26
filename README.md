@@ -18,7 +18,7 @@ Link collection of interesting projects
  * [Eclipse Target Platform](https://github.com/turesheim/eclipse-rpi) for RaspberryPi
 
 ## Threading
- * [Choosing an ExecutorService] (http://blog.jessitron.com/2014/01/choosing-executorservice.html)
+ * [Choosing an ExecutorService] (http://blog.jessitron.com/2014/01/choosing-executorservice.html) describes in which case which ExecutorService should be used
 
 ## JDK
  * run Java Code on the GPU / APU  https://github.com/aparapi/aparapi
