@@ -22,7 +22,7 @@ Link collection of interesting projects
  * run Java Code on the GPU / APU  https://github.com/aparapi/aparapi
  * Layout proposal for project Panama https://github.com/J9Java/panama-layout-prototype
  * Project panama will based on JNR https://github.com/jnr/jnr-ffi
- * 
+ 
 ## OSGi
  * Bundle Repository: [Eclipse Orbit](http://download.eclipse.org/tools/orbit)
  * Bundle Repository: [Spring Source](http://ebr.springsource.com/repository/app/bundle)
