@@ -17,6 +17,8 @@ Link collection of interesting projects
  * [C.H.I.P](http://nextthing.co/pages/chip) The World's First Nine Dollar Computer
  * [Eclipse Target Platform](https://github.com/turesheim/eclipse-rpi) for RaspberryPi
 
+## Threading
+ * [Choosing an ExecutorService] (http://blog.jessitron.com/2014/01/choosing-executorservice.html)
 
 ## JDK
  * run Java Code on the GPU / APU  https://github.com/aparapi/aparapi
