@@ -33,3 +33,5 @@ Link collection of interesting projects
  * StackExchange clones http://meta.stackexchange.com/questions/2267/stack-exchange-clones
   * http://www.mamute.org/
 
+## Scrum
+ * [Effective Retrospectives Reviews](https://www.scrumalliance.org/community/articles/2010/may/effective-retrospectives-reviews)
