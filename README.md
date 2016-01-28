@@ -34,4 +34,4 @@ Link collection of interesting projects
   * http://www.mamute.org/
 
 ## Scrum
- * [Effective Retrospectives Reviews](https://www.scrumalliance.org/community/articles/2010/may/effective-retrospectives-reviews)
+ * [Effective Retrospectives & Reviews](https://www.scrumalliance.org/community/articles/2010/may/effective-retrospectives-reviews)
