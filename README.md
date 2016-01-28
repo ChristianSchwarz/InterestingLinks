@@ -36,3 +36,4 @@ Link collection of interesting projects
 ## Scrum
  * [Effective Retrospectives & Reviews](https://www.scrumalliance.org/community/articles/2010/may/effective-retrospectives-reviews)
  * [Hyper-Productive-Metrics](http://www.scruminc.com/wp-content/uploads/2014/05/Hyper-Productive-Metircs.pdf)
+ * https://www.scruminc.com/toyotas-a3-and-root-cause-analysis/
