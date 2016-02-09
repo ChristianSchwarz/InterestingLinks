@@ -5,8 +5,8 @@ Link collection of interesting projects
 
  * [Truth](http://google.github.io/truth/) is a framework designed to make tests and their error messages more readable and discoverable.
  * AssetJ
- * PiTest https://github.com/hcoles/pitest
- * Headless Silenium for Windows https://github.com/kybu/headless-selenium-for-win
+ * [PiTest] (https://github.com/hcoles/pitest)
+ * [Headless Silenium for Windows] (https://github.com/kybu/headless-selenium-for-win)
  * [Leak Canary] (https://github.com/square/leakcanary) A memory leak detection library for Android and Java.
  
 ## Communication
@@ -24,9 +24,9 @@ Link collection of interesting projects
  * [Conditional Failures Explained] (https://github.com/google/guava/wiki/ConditionalFailuresExplained)
 
 ## JDK
- * run Java Code on the GPU / APU  https://github.com/aparapi/aparapi
- * Layout proposal for project Panama https://github.com/J9Java/panama-layout-prototype
- * Project panama will based on JNR https://github.com/jnr/jnr-ffi
+ * [aparapi] (https://github.com/aparapi/aparapi) run Java Code on the GPU / APU
+ * [Layout proposal for project Panama] (https://github.com/J9Java/panama-layout-prototype)
+ * [JNR] (https://github.com/jnr/jnr-ffi) Project panama will base on JNR 
  
 ## OSGi
  * Bundle Repository: [Eclipse Orbit](http://download.eclipse.org/tools/orbit)
