@@ -33,8 +33,8 @@ Link collection of interesting projects
  * Bundle Repository: [Spring Source](http://ebr.springsource.com/repository/app/bundle)
  
 ## Other
- * StackExchange clones http://meta.stackexchange.com/questions/2267/stack-exchange-clones
-  * http://www.mamute.org/
+ * [StackExchange/StackoverFlow like clones](http://meta.stackexchange.com/questions/2267/stack-exchange-clones)
+  * [Mamute](http://www.mamute.org/)
 
 ## Scrum
  * [Effective Retrospectives & Reviews](https://www.scrumalliance.org/community/articles/2010/may/effective-retrospectives-reviews)
