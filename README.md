@@ -20,6 +20,9 @@ Link collection of interesting projects
 ## Threading
  * [Choosing an ExecutorService] (http://blog.jessitron.com/2014/01/choosing-executorservice.html) describes in which case which ExecutorService should be used
 
+## Exceptions
+ * [Conditional Failures Explained] (https://github.com/google/guava/wiki/ConditionalFailuresExplained)
+
 ## JDK
  * run Java Code on the GPU / APU  https://github.com/aparapi/aparapi
  * Layout proposal for project Panama https://github.com/J9Java/panama-layout-prototype
