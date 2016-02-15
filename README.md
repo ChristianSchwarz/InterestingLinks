@@ -17,11 +17,10 @@ Link collection of interesting projects
  * [C.H.I.P](http://nextthing.co/pages/chip) The World's First Nine Dollar Computer
  * [Eclipse Target Platform](https://github.com/turesheim/eclipse-rpi) for RaspberryPi
 
-## Threading
+## Java Coding Practices
  * [Choosing an ExecutorService] (http://blog.jessitron.com/2014/01/choosing-executorservice.html) describes in which case which ExecutorService should be used
-
-## Exceptions
  * [Conditional Failures Explained] (https://github.com/google/guava/wiki/ConditionalFailuresExplained)
+ * [How to write good test](https://github.com/mockito/mockito/wiki/How-to-write-good-tests)
 
 ## JDK
  * [aparapi] (https://github.com/aparapi/aparapi) run Java Code on the GPU / APU
