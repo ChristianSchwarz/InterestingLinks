@@ -21,7 +21,8 @@ Link collection of interesting projects
  * [Choosing an ExecutorService] (http://blog.jessitron.com/2014/01/choosing-executorservice.html) describes in which case which ExecutorService should be used
  * [Conditional Failures Explained] (https://github.com/google/guava/wiki/ConditionalFailuresExplained)
  * [How to write good test](https://github.com/mockito/mockito/wiki/How-to-write-good-tests)
-
+ * [4 rules of simple design](http://martinfowler.com/bliki/BeckDesignRules.html)
+ 
 ## JDK
  * [aparapi] (https://github.com/aparapi/aparapi) run Java Code on the GPU / APU
  * [Layout proposal for project Panama] (https://github.com/J9Java/panama-layout-prototype)
