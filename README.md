@@ -21,12 +21,13 @@ Link collection of interesting projects
  * [Choosing an ExecutorService] (http://blog.jessitron.com/2014/01/choosing-executorservice.html) describes in which case which ExecutorService should be used
  * [Conditional Failures Explained] (https://github.com/google/guava/wiki/ConditionalFailuresExplained)
  
-## API Design and Clean Code
+## API Design and Code Principles
  * [How to write good test](https://github.com/mockito/mockito/wiki/How-to-write-good-tests)
  * [4 rules of simple design](http://martinfowler.com/bliki/BeckDesignRules.html)
  * [The golden rules of code documentation](http://blog.jooq.org/2013/02/26/the-golden-rules-of-code-documentation/)
  * [Why developer-friendliness is central to API design](http://theamiableapi.com/2011/08/23/why-developer-friendliness-is-central-to-api-design/)
  * [Considering the perspective of the caller](http://theamiableapi.com/2011/08/29/considering-the-perspective-of-the-caller/)
+ * [How does a good commit message looks like](http://lemike-de.tumblr.com/post/79041908218/semantic-commits)
  
 ## JDK
  * [aparapi] (https://github.com/aparapi/aparapi) run Java Code on the GPU / APU
