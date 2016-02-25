@@ -16,6 +16,8 @@ Link collection of interesting projects
  * [PINE A64](http://pine64.com/) First $15 64-Bit Single Board Super Computer
  * [C.H.I.P](http://nextthing.co/pages/chip) The World's First Nine Dollar Computer
  * [Eclipse Target Platform](https://github.com/turesheim/eclipse-rpi) for RaspberryPi
+ * [Pozyx] (https://www.pozyx.io/) localisation with centimenter precision
+ * [RaspPi-Camera how to](http://raspberrypiguide.de/howtos/raspberry-pi-camera-how-to/)
 
 ## Java Coding
  * [Choosing an ExecutorService] (http://blog.jessitron.com/2014/01/choosing-executorservice.html) describes in which case which ExecutorService should be used
