@@ -18,6 +18,8 @@ Link collection of interesting projects
  * [Eclipse Target Platform](https://github.com/turesheim/eclipse-rpi) for RaspberryPi
  * [Pozyx] (https://www.pozyx.io/) localisation with centimenter precision
  * [RaspPi-Camera how to](http://raspberrypiguide.de/howtos/raspberry-pi-camera-how-to/)
+ * [RaspPi-Camera API for raspistill](http://jankarres.de/2013/05/raspberry-pi-raspistill-und-raspivid-parameter/)
+ * [RaspPi-Camera timelapse](http://computers.tutsplus.com/tutorials/creating-time-lapse-photography-with-a-raspberry-pi--cms-20794)
 
 ## Java Coding
  * [Choosing an ExecutorService] (http://blog.jessitron.com/2014/01/choosing-executorservice.html) describes in which case which ExecutorService should be used
