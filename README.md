@@ -4,7 +4,7 @@ Link collection of interesting projects
 ## Testing
 
  * [Truth](http://google.github.io/truth/) is a framework designed to make tests and their error messages more readable and discoverable.
- * AssetJ
+ * [AssertJ] (http://joel-costigliola.github.io/assertj/index.html) Fluent assertions for java 8
  * [PiTest] (https://github.com/hcoles/pitest) Mutation testing
  * [Headless Silenium for Windows] (https://github.com/kybu/headless-selenium-for-win)
  * [Leak Canary] (https://github.com/square/leakcanary) A memory leak detection library for Android and Java.
