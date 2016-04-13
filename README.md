@@ -10,7 +10,7 @@ Link collection of interesting projects
  * [Test Containers] (https://github.com/testcontainers/testcontainers-java) is a Java 8 library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
  
 ## Android
- * [ReDex](https://github.com/facebook/redex) is an Android bytecode (dex) optimizer that produces faster and smaller APK's
+ * [ReDex](https://github.com/facebook/redex) is an Android bytecode (dex) optimizer that produces faster and smaller APK's, [blog](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex)
  * [Robolectric](http://robolectric.org/)  is a unit test framework that de-fangs the Android SDK jar so you can test-drive the development of your Android app.
  * [Leak Canary] (https://github.com/square/leakcanary) is a memory leak detection library for Android and Java.
  
