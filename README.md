@@ -16,11 +16,12 @@ Link collection of interesting projects
 ## Single Board Computers
  * [PINE A64](http://pine64.com/) First $15 64-Bit Single Board Super Computer
  * [C.H.I.P](http://nextthing.co/pages/chip) The World's First Nine Dollar Computer
- * [Eclipse Target Platform](https://github.com/turesheim/eclipse-rpi) for RaspberryPi
  * [Pozyx] (https://www.pozyx.io/) localisation with centimenter precision
+ * [RaspPi-Eclipse Target Platform](https://github.com/turesheim/eclipse-rpi) for RaspberryPi
  * [RaspPi-Camera how to](http://raspberrypiguide.de/howtos/raspberry-pi-camera-how-to/)
  * [RaspPi-Camera API for raspistill](http://jankarres.de/2013/05/raspberry-pi-raspistill-und-raspivid-parameter/)
  * [RaspPi-Camera timelapse](http://computers.tutsplus.com/tutorials/creating-time-lapse-photography-with-a-raspberry-pi--cms-20794)
+ * [RaspPi-IoT-Shield](http://www.pi2design.com/store/p3/502IOT_-_Internet_of_Things_Shield.html) with Realtime-Clock, WiFi additional USB-2.0 ports, ...
 
 ## Java Coding
  * [Choosing an ExecutorService] (http://blog.jessitron.com/2014/01/choosing-executorservice.html) describes in which case which ExecutorService should be used
