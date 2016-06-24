@@ -53,6 +53,7 @@ Link collection of interesting projects
  * [ Question and Answers Engines like StackExchange/StackoverFlow](http://meta.stackexchange.com/questions/2267/stack-exchange-clones)
   * [Mamute](http://www.mamute.org/) Mamute is developed in Java on top of CDI and VRaptor 4.
  * [GitHub set up issue and pull request templates](https://help.github.com/articles/helping-people-contribute-to-your-project/)
+ * [ Learn Git with the Github online console](https://try.github.io/levels/1/challenges/1)
 
 ## Scrum
  * [Effective Retrospectives & Reviews](https://www.scrumalliance.org/community/articles/2010/may/effective-retrospectives-reviews)
