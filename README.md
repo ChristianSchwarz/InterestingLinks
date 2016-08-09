@@ -65,3 +65,7 @@ Link collection of interesting projects
  * [Worldwide Infrastructure Security Report 2012 vol. VIII](http://pages.arbornetworks.com/rs/arbor/images/WISR2012_EN.pdf)
  * 
  http://stackoverflow.com/jobs/111218/software-engineer-fullstack-mobilede?searchTerm=mobile.de&offset=8&distanceunits=Km&location=berlin&range=20
+
+## Follow PPL
+ * Brian Goetz [stackoverflow](http://stackoverflow.com/users/3553087/brian-goetz)
+ * Louis Wasserman [stackoverflow](http://stackoverflow.com/users/869736/louis-wasserman)
