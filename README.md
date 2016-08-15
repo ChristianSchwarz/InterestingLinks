@@ -39,6 +39,7 @@ Link collection of interesting projects
  * [Why developer-friendliness is central to API design](http://theamiableapi.com/2011/08/23/why-developer-friendliness-is-central-to-api-design/)
  * [Considering the perspective of the caller](http://theamiableapi.com/2011/08/29/considering-the-perspective-of-the-caller/)
  * [How does a good commit message looks like](http://lemike-de.tumblr.com/post/79041908218/semantic-commits)
+ * [Unit Test Anti patten](http://stackoverflow.com/questions/333682/unit-testing-anti-patterns-catalogue)
  
 ## JDK
  * [aparapi] (https://github.com/aparapi/aparapi) run Java Code on the GPU / APU
