@@ -9,6 +9,15 @@ Link collection of interesting projects
  * [Leak Canary] (https://github.com/square/leakcanary) is a memory leak detection library for Android and Java.
  * [Test Containers] (https://github.com/testcontainers/testcontainers-java) is a Java 8 library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
  * [Burst](https://github.com/square/burst) is a JUnit runner to generate varying test data based on enums
+  
+## Reflection and Byte-Code Tools
+ * [ReDex](https://github.com/facebook/redex) is an Android bytecode (dex) optimizer that produces faster and smaller APK's
+ * [Byte Buddy](http://bytebuddy.net) is a code generation library for creating Java classes during the runtime of a Java application and without the help of a compiler.
+ * [Objenesis](http://objenesis.org/) is a Java library that serves one purpose: To instantiate a new object by bypassing the constructor
+ * [ASM](http://asm.ow2.org/) is an all purpose Java bytecode manipulation and analysis framework. It is the base for the most libaries that perform byte code generation/analysis
+ * [JavaAssist](http://jboss-javassist.github.io/javassist/) is a class library for editing bytecodes in Java, it enablbes to define classes at runtime and to modify a class file when the JVM loads it.
+ * [Reflections](https://github.com/ronmamo/reflections) scans your classpath, indexes the metadata, allows you to query it on runtime and may save and collect that information for many modules within your project.
+ * [ReflectASM](https://github.com/EsotericSoftware/reflectasm) is a Java library that provides high performance reflective calls by using code generation.
  
 ## Android
  * [ReDex](https://github.com/facebook/redex) is an Android bytecode (dex) optimizer that produces faster and smaller APK's, [blog](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex)
