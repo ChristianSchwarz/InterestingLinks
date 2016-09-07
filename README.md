@@ -23,7 +23,8 @@ Link collection of interesting projects
  * [ReDex](https://github.com/facebook/redex) is an Android bytecode (dex) optimizer that produces faster and smaller APK's, [blog](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex)
  * [Robolectric](http://robolectric.org/)  is a unit test framework that de-fangs the Android SDK jar so you can test-drive the development of your Android app.
  * [Leak Canary] (https://github.com/square/leakcanary) is a memory leak detection library for Android and Java.
- 
+ * [Butter Knife] (http://jakewharton.github.io/butterknife/) bind Android views and callbacks to fields and methods.  
+
 ## Communication
  * [retrofit] (http://square.github.io/retrofit/) a type-safe HTTP client 
 
