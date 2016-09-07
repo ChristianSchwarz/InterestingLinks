@@ -12,6 +12,7 @@ Link collection of interesting projects
   
 ## Reflection and Byte-Code Tools
  * [ReDex](https://github.com/facebook/redex) is an Android bytecode (dex) optimizer that produces faster and smaller APK's
+ * [DexMaker](https://github.com/crittercism/dexmaker) is a Java-language API for doing compile time or runtime code generation targeting the Dalvik VM. 
  * [Byte Buddy](http://bytebuddy.net) is a code generation library for creating Java classes during the runtime of a Java application and without the help of a compiler.
  * [Objenesis](http://objenesis.org/) is a Java library that serves one purpose: To instantiate a new object by bypassing the constructor
  * [ASM](http://asm.ow2.org/) is an all purpose Java bytecode manipulation and analysis framework. It is the base for the most libaries that perform byte code generation/analysis
