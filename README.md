@@ -32,6 +32,8 @@ Link collection of interesting projects
 ## Single Board Computers
  * [PINE A64](http://pine64.com/) First $15 64-Bit Single Board Super Computer
  * [C.H.I.P](http://nextthing.co/pages/chip) The World's First Nine Dollar Computer
+ * [Nano Pi](http://www.nanopi.org/)
+ 
  * [Pozyx] (https://www.pozyx.io/) localisation with centimenter precision
  * [RaspPi-Eclipse Target Platform](https://github.com/turesheim/eclipse-rpi) for RaspberryPi
  * [RaspPi-Camera how to](http://raspberrypiguide.de/howtos/raspberry-pi-camera-how-to/)
