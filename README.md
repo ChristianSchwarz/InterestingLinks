@@ -64,10 +64,11 @@ Link collection of interesting projects
  * Bundle Repository: [Spring Source](http://ebr.springsource.com/repository/app/bundle)
  
 ## Other
- * [ Question and Answers Engines like StackExchange/StackoverFlow](http://meta.stackexchange.com/questions/2267/stack-exchange-clones)
+ * [Question and Answers Engines like StackExchange/StackoverFlow](http://meta.stackexchange.com/questions/2267/stack-exchange-clones)
   * [Mamute](http://www.mamute.org/) Mamute is developed in Java on top of CDI and VRaptor 4.
  * [GitHub set up issue and pull request templates](https://help.github.com/articles/helping-people-contribute-to-your-project/)
- * [ Learn Git with the Github online console](https://try.github.io/levels/1/challenges/1)
+ * [Learn Git with the Github online console](https://try.github.io/levels/1/challenges/1)
+ * [Google Material Design](https://material.io/) Googles app design guide
 
 ## Scrum
  * [Effective Retrospectives & Reviews](https://www.scrumalliance.org/community/articles/2010/may/effective-retrospectives-reviews)
