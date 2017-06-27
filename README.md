@@ -75,11 +75,14 @@ Link collection of interesting projects
  * [Hyper-Productive-Metrics](http://www.scruminc.com/wp-content/uploads/2014/05/Hyper-Productive-Metircs.pdf)
  * [Toyotas A3 And Root Cause Analysis](https://www.scruminc.com/toyotas-a3-and-root-cause-analysis/)
  * [Catalog of Scrum Smells](http://www.mountaingoatsoftware.com/articles/toward-a-catalog-of-scrum-smells)
- 
+
 ## Networking
  * [Worldwide Infrastructure Security Report 2012 vol. VIII](http://pages.arbornetworks.com/rs/arbor/images/WISR2012_EN.pdf)
  * 
  http://stackoverflow.com/jobs/111218/software-engineer-fullstack-mobilede?searchTerm=mobile.de&offset=8&distanceunits=Km&location=berlin&range=20
+
+## Anti-Pattern
+ * [UX-Myths](http://uxmyths.com/)
 
 ## Follow PPL
  * Brian Goetz [stackoverflow](http://stackoverflow.com/users/3553087/brian-goetz)
