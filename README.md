@@ -42,8 +42,8 @@ Link collection of interesting projects
  * [RaspPi-IoT-Shield](http://www.pi2design.com/store/p3/502IOT_-_Internet_of_Things_Shield.html) with Realtime-Clock, WiFi additional USB-2.0 ports, ...
 
 ## Java Coding
- * [Choosing an ExecutorService] (http://blog.jessitron.com/2014/01/choosing-executorservice.html) describes in which case which ExecutorService should be used
- * [Conditional Failures Explained] (https://github.com/google/guava/wiki/ConditionalFailuresExplained)
+ * [Choosing an ExecutorService](http://blog.jessitron.com/2014/01/choosing-executorservice.html) describes in which case which ExecutorService should be used
+ * [Conditional Failures Explained](https://github.com/google/guava/wiki/ConditionalFailuresExplained)
  
 ## API Design and Code Principles
  * [How to write good test](https://github.com/mockito/mockito/wiki/How-to-write-good-tests)
