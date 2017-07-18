@@ -5,7 +5,7 @@ Link collection of interesting projects
  * [Truth](http://google.github.io/truth/) is a framework designed to make tests and their error messages more readable and discoverable, similar to AssertJ.
  * [AssertJ](http://joel-costigliola.github.io/assertj/index.html) Fluent assertions for java 8, can bee seen as a modern alternative to Hamcrest
  * [PiTest](https://github.com/hcoles/pitest) Mutation testing
- * [Headless Silenium for Windows] (https://github.com/kybu/headless-selenium-for-win)
+ * [Headless Silenium for Windows](https://github.com/kybu/headless-selenium-for-win)
  * [Leak Canary](https://github.com/square/leakcanary) is a memory leak detection library for Android and Java.
  * [Test Containers](https://github.com/testcontainers/testcontainers-java) is a Java 8 library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
  * [Burst](https://github.com/square/burst) is a JUnit runner to generate varying test data based on enums
