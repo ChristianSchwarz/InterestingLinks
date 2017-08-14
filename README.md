@@ -9,6 +9,7 @@ Link collection of interesting projects
  * [Leak Canary](https://github.com/square/leakcanary) is a memory leak detection library for Android and Java.
  * [Test Containers](https://github.com/testcontainers/testcontainers-java) is a Java 8 library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
  * [Burst](https://github.com/square/burst) is a JUnit runner to generate varying test data based on enums
+ * [Test-Butler](https://github.com/linkedin/test-butler) stabilizes Android emulator tests
   
 ## Reflection and Byte-Code Tools
  * [ReDex](https://github.com/facebook/redex) is an Android bytecode (dex) optimizer that produces faster and smaller APK's
