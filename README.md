@@ -58,7 +58,11 @@ Link collection of interesting projects
 ## JDK
  * [aparapi](https://github.com/aparapi/aparapi) run Java Code on the GPU / APU
  * [Layout proposal for project Panama](https://github.com/J9Java/panama-layout-prototype)
- * [JNR](https://github.com/jnr/jnr-ffi) Project panama will base on JNR 
+ * [JNR](https://github.com/jnr/jnr-ffi) Project panama will base on JNR
+ * [Project Panama slides](https://de.slideshare.net/ChristophEngelbert/project-panama-beyond-the-jvm-wall) project panama beyond the jvm wall
+ * [the next JVM generation](http://cr.openjdk.java.net/~jrose/pres/201703-YourNextVM.pdf) your next JVM: Panama, Valhalla, Metropolis
+
+ 
  
 ## OSGi
  * Bundle Repository: [Eclipse Orbit](http://download.eclipse.org/tools/orbit)
