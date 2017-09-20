@@ -61,6 +61,9 @@ Link collection of interesting projects
  * [JNR](https://github.com/jnr/jnr-ffi) Project panama will base on JNR
  * [Project Panama slides](https://de.slideshare.net/ChristophEngelbert/project-panama-beyond-the-jvm-wall) project panama beyond the jvm wall
  * [the next JVM generation](http://cr.openjdk.java.net/~jrose/pres/201703-YourNextVM.pdf) your next JVM: Panama, Valhalla, Metropolis
+ * [The isthmus in the vm](https://blogs.oracle.com/jrose/the-isthmus-in-the-vm) “native interconnect”
+between code managed by the JVM and APIs for libraries not managed by
+the JVM.
 
  
  
