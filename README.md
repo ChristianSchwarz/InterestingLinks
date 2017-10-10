@@ -83,7 +83,8 @@ the JVM.
  * [Hyper-Productive-Metrics](http://www.scruminc.com/wp-content/uploads/2014/05/Hyper-Productive-Metircs.pdf)
  * [Toyotas A3 And Root Cause Analysis](https://www.scruminc.com/toyotas-a3-and-root-cause-analysis/)
  * [Catalog of Scrum Smells](http://www.mountaingoatsoftware.com/articles/toward-a-catalog-of-scrum-smells)
- * [Hot to motivate coworkert to write tests](https://arstechnica.com/information-technology/2013/03/how-can-i-motivate-coworkers-to-write-unit-tests/)
+ * [Hot to motivate coworkers to write tests](https://arstechnica.com/information-technology/2013/03/how-can-i-motivate-coworkers-to-write-unit-tests/)
+ * [Motivation Visibility, and Unit Testing](http://blog.berczuk.com/2010/05/motivation-visibility-and-unit-testing.html)
 
 ## Networking
  * [Worldwide Infrastructure Security Report 2012 vol. VIII](http://pages.arbornetworks.com/rs/arbor/images/WISR2012_EN.pdf)
