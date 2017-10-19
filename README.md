@@ -54,6 +54,7 @@ Link collection of interesting projects
  * [Considering the perspective of the caller](http://theamiableapi.com/2011/08/29/considering-the-perspective-of-the-caller/)
  * [How does a good commit message looks like](http://lemike-de.tumblr.com/post/79041908218/semantic-commits)
  * [Unit Test Anti patten](http://stackoverflow.com/questions/333682/unit-testing-anti-patterns-catalogue)
+ * [Fail Fast]https://www.martinfowler.com/ieeeSoftware/failFast.pdf
  
 ## JDK
  * [aparapi](https://github.com/aparapi/aparapi) run Java Code on the GPU / APU
